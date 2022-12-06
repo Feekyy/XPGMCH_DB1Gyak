@@ -1,0 +1,150 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.6)  6 DEC 2022 02:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./jk.tex
+(jk.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-11-02>
+(C:\Users\VDani\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\VDani\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\VDani\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/11/30 3.83 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Users\VDani\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\VDani\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\VDani\AppData\Local\Programs\MiKTeX\tex/latex/babel-hungarian\magyar.
+ldf
+Language: magyar 2019/01/14 v1.5c Magyar (Hungarian) support for babel
+Package babel Info: Making ` an active character on input line 2819.
+\c@footnote@add=\count195
+\c@footnote@ch=\count196
+))
+(C:\Users\VDani\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/hu\babel
+-magyar.tex
+Package babel Info: Importing font and identification data for magyar
+(babel)             from babel-hu.ini. Reported on input line 11.
+)
+(C:\Users\VDani\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box51
+) (jk.aux)
+\openout1 = `jk.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+
+LaTeX Warning: Please use \usepackage{t1enc} with
+               \usepackage[magyar]{babel}, to get accented chars hyphenated.
+
+(C:\Users\VDani\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+LaTeX Info: Redefining \cal on input line 497.
+LaTeX Info: Redefining \mit on input line 498.
+)
+[1
+
+
+{C:/Users/VDani/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (4.2084pt too wide) in paragraph at lines 21--35
+\OT1/cmr/m/n/12 hi^^Sanyoss^^Saga - nem le-het szag-ga-tott vo-na-las al^^Sah^^
+Suz^^Sast ten-ni -, azon-ban k^^?onnyen
+ []
+
+
+Overfull \hbox (39.91498pt too wide) in paragraph at lines 21--35
+\OT1/cmr/m/n/12 ^^Ses gyor-san le-het a raj-zo-mat moz-gat-ni, sk^^Sal^^Sazni, 
+ki-ex-port^^Salni k^^?ul^^?onb^^?oz}o form^^Satumban.
+ []
+
+
+Overfull \hbox (7.39607pt too wide) in paragraph at lines 21--35
+\OT1/cmr/m/n/12 Tov^^Sabb^^Sa az SQL Shell mel-lett ^^Sen egy ki-csit az SQL Wo
+rk-benc-het is haszn^^Saltam,
+ []
+
+
+Overfull \hbox (18.05513pt too wide) in paragraph at lines 21--35
+\OT1/cmr/m/n/12 A meg-val^^Sos^^S^^Pt^^Sashoz draw.io-ot haszn^^Saltam. Ide tar
+-toz^^So f^^Sajlok: ERxpgmch.drawio,
+ []
+
+
+Overfull \hbox (20.08002pt too wide) in paragraph at lines 21--35
+\OT1/cmr/m/n/12 Elk^^Sesz^^S^^Pt^^Seshez itt is draw.io-ot haszn^^Saltam. Ide t
+ar-toz^^So f^^Sajlok: RMxpgmch.drawio,
+ []
+
+
+Overfull \hbox (17.6621pt too wide) in paragraph at lines 21--35
+\OT1/cmr/m/n/12 SQL SHell-ben ezt fel-vin-ni egy r^^Sem^^Salom volt. Ide tar-to
+z^^So f^^Sajlok: In-sertXPGMCH,
+ []
+
+
+Overfull \hbox (28.25601pt too wide) in paragraph at lines 21--35
+\OT1/cmr/m/n/12 In-sert1.png, In-sert2.png, In-sert3.png ^^Ses a \OT1/cmr/m/it/
+12 in-sert \OT1/cmr/m/n/12 map-pa tar-tal-maz-za a t^^Sabl^^Sazatokat,
+ []
+
+[1] [2] (jk.aux) ) 
+Here is how much of TeX's memory you used:
+ 2366 strings out of 475281
+ 44480 string characters out of 2774065
+ 417812 words of memory out of 3000000
+ 23905 multiletter control sequences out of 15000+600000
+ 471115 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,5n,52p,798b,343s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/VDani/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Users/VDani/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><C:/Users/VDani/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/VDani/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on jk.pdf (3 pages, 62932 bytes).
+PDF statistics:
+ 32 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
