@@ -1,0 +1,12 @@
+1, Ki volt az "Az andoki rém"? Jelenítsen meg róla minden információt!
+2, Mely ország szerepel többször mint tetthely?
+3, Állítsa sorrendbe a feltételzett gyilkosságok számát  a táblázatban csökkenő sorrendbe, 
+   ha a csoportokban elkövetett mennyiséget el kell osztani a tagok számával (Tiszazugi méregkeverők - 20 fő/Nijevai banda - 3 fő)? 
+   Az ismeretlenek hagyja ki!
+4, Kihez milyen fegyverek tartoznak?
+5, Derítse ki, hogy kik lettek öngyilkosak a börtönben! 
+6, Mennyire gyakori indíték volt a "kéjvágy"?
+7, Van olyan, aki nem abban az országban ül/ült börtönben, amelyikben elkövette a bűneit?
+8, Összesen hány áldozatot szedtek bizonyítottan azok a gyilkosok, akik kiskorúakat öltek meg (fiúk/lányok/gyerekek)?
+9, Van olyan, aki szabadlábon van ma?
+10, A kéjvággyal rendelkezők közül, van olyan, aki vagy csak erőszakolt, vagy csak kínzott, de legalább az egyiket elkövette?
